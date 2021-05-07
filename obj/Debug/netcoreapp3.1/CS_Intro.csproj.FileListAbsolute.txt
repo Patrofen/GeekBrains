@@ -1,0 +1,13 @@
+C:\!Programming\GeekBrains\CS_Intro\bin\Debug\netcoreapp3.1\CS_Intro.exe
+C:\!Programming\GeekBrains\CS_Intro\bin\Debug\netcoreapp3.1\CS_Intro.deps.json
+C:\!Programming\GeekBrains\CS_Intro\bin\Debug\netcoreapp3.1\CS_Intro.runtimeconfig.json
+C:\!Programming\GeekBrains\CS_Intro\bin\Debug\netcoreapp3.1\CS_Intro.runtimeconfig.dev.json
+C:\!Programming\GeekBrains\CS_Intro\bin\Debug\netcoreapp3.1\CS_Intro.dll
+C:\!Programming\GeekBrains\CS_Intro\bin\Debug\netcoreapp3.1\CS_Intro.pdb
+C:\!Programming\GeekBrains\CS_Intro\obj\Debug\netcoreapp3.1\CS_Intro.csprojAssemblyReference.cache
+C:\!Programming\GeekBrains\CS_Intro\obj\Debug\netcoreapp3.1\CS_Intro.AssemblyInfoInputs.cache
+C:\!Programming\GeekBrains\CS_Intro\obj\Debug\netcoreapp3.1\CS_Intro.AssemblyInfo.cs
+C:\!Programming\GeekBrains\CS_Intro\obj\Debug\netcoreapp3.1\CS_Intro.csproj.CoreCompileInputs.cache
+C:\!Programming\GeekBrains\CS_Intro\obj\Debug\netcoreapp3.1\CS_Intro.dll
+C:\!Programming\GeekBrains\CS_Intro\obj\Debug\netcoreapp3.1\CS_Intro.pdb
+C:\!Programming\GeekBrains\CS_Intro\obj\Debug\netcoreapp3.1\CS_Intro.genruntimeconfig.cache
